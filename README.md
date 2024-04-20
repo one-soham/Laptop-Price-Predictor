@@ -1,0 +1,1 @@
+Created a Simple Laptop Price Predictor system, using SKLearn's various regression techniques, along with some data manipulation and engineering to help accurately predict the price of various laptops on the market
